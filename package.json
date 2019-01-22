@@ -1,0 +1,22 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "Testing CircleCI",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommymcphillips/nodetest.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tommymcphillips/nodetest/issues"
+  },
+  "homepage": "https://github.com/tommymcphillips/nodetest#readme"
+}
